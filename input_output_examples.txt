@@ -1,0 +1,39 @@
+Output(Question 1):-
+
+Code By Aaroh Gaur(22BCS17238)
+Product Id : 
+123
+Name : 
+Playstation
+Price : 
+40000
+Product Id : 123
+Name : Playstation
+Price : 40000
+
+--------------------------------------------------------------------------------------------------------------------------
+Output(Question 2):-
+
+Code by Aaroh Gaur (22BCS17238)
+Fiction Book Details:
+Title: Harry Potter
+Author: J.K. Rowling
+Price: 500.0
+
+Non-Fiction Book Details:
+Title: Sapiens
+Author: Yuval Noah Harari
+Price: 700.0
+-------------------------------------------------------------------------------------------------------------------------
+Output(Question 3):-
+
+Code By Aaroh Gaur(22BCS17238)
+Student Details:
+Name: Aaroh
+Age: 21
+Roll Number: 17238
+
+Teacher Details:
+Name: Mr. Mayank Kumar
+Age: 28
+Subject: Java
